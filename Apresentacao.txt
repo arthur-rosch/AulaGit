@@ -1,4 +1,4 @@
 Nome:Arthur Rosch
 Idade:16 Anos
-Trabalho: Nao Trabalho, So Estudo Por Enquanto.
-Objetivo Dodev: Meu objetivo na Dodev, E fazer o maximo de NetWork Possivel, E Extrair o maximo que consegui de conteudo desses 6 Meses de Curso.
+Trabalho: Não Trabalho, Só Estudo Por Enquanto.
+Objetivo Dodev: Meu objetivo na Dodev, E fazer o máximo de networking Possível, E Extrair o máximo de conteúdo desses 6 Meses de Curso.
